@@ -1,0 +1,28 @@
+// program to check whether a +ve integer is palindrome or  not
+
+#include <stdio.h>
+
+int main() {
+   int b,l,r,sum=0;
+   printf("Enter any number to check  it is Palindrome Number or not: ");
+   scanf("%d",&r);
+   b=r;
+   
+   
+   while(b>=1){
+       l=b%10;
+       b=b/10;
+       sum=sum*10+l;
+   }
+   
+   
+   
+   if(sum==r){
+       printf("\nEntered number is A Palindrome Number");
+   }
+   else{
+       printf("\nEntered number is NOT a Palindrome Number");
+   }
+       
+   return 0;
+}   
