@@ -22,7 +22,7 @@ int main() {
    return 0;
 }
 
-Output
+/*Output
 
 enter any number: 525
 
