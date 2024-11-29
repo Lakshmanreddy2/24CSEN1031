@@ -25,7 +25,7 @@ int main() {
    return 0;
 }
 
-Output
+/*Output
 
 Enter any number to check whether it is an Armstrong Number or not: 525
 
