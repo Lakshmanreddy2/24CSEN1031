@@ -24,3 +24,11 @@ int main() {
    
    return 0;
 }
+
+Output
+
+Enter any number to check whether it is an Armstrong Number or not: 525
+
+the entered number is NOT an Armstrong Number
+
+=== Code Execution Successful ===
