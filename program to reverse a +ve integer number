@@ -20,3 +20,11 @@ int main() {
    
    return 0;
 }
+
+Output
+
+enter any number to be reversed: 522
+
+after reversing: 225
+
+=== Code Execution Successful ===
