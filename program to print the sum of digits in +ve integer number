@@ -19,16 +19,14 @@ int main() {
    }
    printf("%d",sum);
    
-   
-   
    return 0;
-
-
-enter any number: 525
+}
 
 Output
 
- the sum of the digits in the entered number is : 12
+enter any number: 525
+
+the sum of the digits in the entered number is : 12
 
 === Code Execution Successful ===
-}
+
