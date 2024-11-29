@@ -18,3 +18,16 @@ int main() {
   
    return 0;
 }
+
+
+enter any number to be reversed: 255
+
+Output
+
+after reversing:
+ 
+5
+5
+2
+
+=== Code Execution Successful ===
